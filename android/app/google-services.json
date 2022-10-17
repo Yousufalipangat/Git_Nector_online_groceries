@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "195182337502",
+    "firebase_url": "https://nector-online-groceries-default-rtdb.firebaseio.com",
+    "project_id": "nector-online-groceries",
+    "storage_bucket": "nector-online-groceries.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195182337502:android:1f1306ffc713dd4b4c514f",
+        "android_client_info": {
+          "package_name": "com.nector_online_groceries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195182337502-j3l2uufjthr0mdur720bdrbnmqphslqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nector_online_groceries",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "195182337502-1q8jlsf5j1seifk67fvgb5r5ljft8h4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdXClB1rKjEi4TMdWRfSVGM6OsIrQ2OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195182337502-1q8jlsf5j1seifk67fvgb5r5ljft8h4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
